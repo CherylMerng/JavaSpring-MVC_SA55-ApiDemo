@@ -1,0 +1,181 @@
+2022-12-15 14:28:45 [restartedMain] INFO  : Starting DemoApplication using Java 17.0.5 on Cheryl-PC with PID 7996 (C:\Users\UX425-KI838W\workspace-spring-tool-suite-4-4.16.1.RELEASE\SA55apiDemo-main\SA55apiDemo-main\target\classes started by UX425-KI838W in C:\Users\UX425-KI838W\workspace-spring-tool-suite-4-4.16.1.RELEASE\SA55apiDemo-main\SA55apiDemo-main)
+2022-12-15 14:28:45 [restartedMain] INFO  : The following 1 profile is active: "dev"
+2022-12-15 14:28:45 [restartedMain] INFO  : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-15 14:28:45 [restartedMain] INFO  : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-15 14:28:46 [restartedMain] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-15 14:28:46 [restartedMain] INFO  : Finished Spring Data repository scanning in 124 ms. Found 9 JPA repository interfaces.
+2022-12-15 14:28:47 [restartedMain] INFO  : Tomcat initialized with port(s): 8081 (http)
+2022-12-15 14:28:47 [restartedMain] INFO  : Initializing ProtocolHandler ["http-nio-8081"]
+2022-12-15 14:28:47 [restartedMain] INFO  : Starting service [Tomcat]
+2022-12-15 14:28:47 [restartedMain] INFO  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-15 14:28:47 [restartedMain] INFO  : Initializing Spring embedded WebApplicationContext
+2022-12-15 14:28:47 [restartedMain] INFO  : Root WebApplicationContext: initialization completed in 2320 ms
+2022-12-15 14:28:47 [restartedMain] INFO  : HikariPool-1 - Starting...
+2022-12-15 14:28:48 [restartedMain] INFO  : HikariPool-1 - Start completed.
+2022-12-15 14:28:48 [restartedMain] INFO  : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/apidemo?createDatabaseIfNotExist=true'
+2022-12-15 14:28:48 [restartedMain] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-15 14:28:48 [restartedMain] INFO  : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-12-15 14:28:49 [restartedMain] INFO  : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration boolean -> org.hibernate.type.BooleanType@59991d2b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration boolean -> org.hibernate.type.BooleanType@59991d2b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@59991d2b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@46d4453d
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration true_false -> org.hibernate.type.TrueFalseType@14bbf31b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration yes_no -> org.hibernate.type.YesNoType@7e4fd0d0
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration byte -> org.hibernate.type.ByteType@6ce70df7
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration byte -> org.hibernate.type.ByteType@6ce70df7
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@6ce70df7
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration character -> org.hibernate.type.CharacterType@6eb96a90
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration char -> org.hibernate.type.CharacterType@6eb96a90
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@6eb96a90
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration short -> org.hibernate.type.ShortType@74d72580
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration short -> org.hibernate.type.ShortType@74d72580
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Short -> org.hibernate.type.ShortType@74d72580
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration integer -> org.hibernate.type.IntegerType@3132b1a9
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration int -> org.hibernate.type.IntegerType@3132b1a9
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@3132b1a9
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration long -> org.hibernate.type.LongType@43edd82d
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration long -> org.hibernate.type.LongType@43edd82d
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Long -> org.hibernate.type.LongType@43edd82d
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration float -> org.hibernate.type.FloatType@61eef322
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration float -> org.hibernate.type.FloatType@61eef322
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Float -> org.hibernate.type.FloatType@61eef322
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration double -> org.hibernate.type.DoubleType@35695029
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration double -> org.hibernate.type.DoubleType@35695029
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@35695029
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@43c4cf8f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@43c4cf8f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration big_integer -> org.hibernate.type.BigIntegerType@19b15818
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@19b15818
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration string -> org.hibernate.type.StringType@51b00c9f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.String -> org.hibernate.type.StringType@51b00c9f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration nstring -> org.hibernate.type.StringNVarcharType@422890af
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@1c0283d3
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration url -> org.hibernate.type.UrlType@2b242b61
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.net.URL -> org.hibernate.type.UrlType@2b242b61
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration Duration -> org.hibernate.type.DurationType@1a79ee2c
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.Duration -> org.hibernate.type.DurationType@1a79ee2c
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration Instant -> org.hibernate.type.InstantType@31df6c3b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.Instant -> org.hibernate.type.InstantType@31df6c3b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@192b3847
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@192b3847
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration LocalDate -> org.hibernate.type.LocalDateType@1c17645a
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@1c17645a
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@41acb3e5
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@41acb3e5
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@252cc630
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@252cc630
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@7511b822
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@7511b822
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@3ef45424
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@3ef45424
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration date -> org.hibernate.type.DateType@6f996c6
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.sql.Date -> org.hibernate.type.DateType@6f996c6
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration time -> org.hibernate.type.TimeType@ad08ab4
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.sql.Time -> org.hibernate.type.TimeType@ad08ab4
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration timestamp -> org.hibernate.type.TimestampType@69ef7e2b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@69ef7e2b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.Date -> org.hibernate.type.TimestampType@69ef7e2b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@10ad61df
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration calendar -> org.hibernate.type.CalendarType@6777755f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@6777755f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@6777755f
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@44db6765
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration calendar_time -> org.hibernate.type.CalendarTimeType@315d70fe
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration locale -> org.hibernate.type.LocaleType@5d6724ff
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@5d6724ff
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration currency -> org.hibernate.type.CurrencyType@114954a9
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@114954a9
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration timezone -> org.hibernate.type.TimeZoneType@a2bdf6c
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@a2bdf6c
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration class -> org.hibernate.type.ClassType@5391a115
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Class -> org.hibernate.type.ClassType@5391a115
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@30f04d73
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@30f04d73
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@6d97deec
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration binary -> org.hibernate.type.BinaryType@13081341
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration byte[] -> org.hibernate.type.BinaryType@13081341
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration [B -> org.hibernate.type.BinaryType@13081341
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@23af8cb3
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@23af8cb3
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@23af8cb3
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration row_version -> org.hibernate.type.RowVersionType@44e49651
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration image -> org.hibernate.type.ImageType@13f53758
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration characters -> org.hibernate.type.CharArrayType@75c7da8e
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration char[] -> org.hibernate.type.CharArrayType@75c7da8e
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration [C -> org.hibernate.type.CharArrayType@75c7da8e
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@6fe75e3a
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@6fe75e3a
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@6fe75e3a
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration text -> org.hibernate.type.TextType@3ceea5d
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration ntext -> org.hibernate.type.NTextType@356c2845
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration blob -> org.hibernate.type.BlobType@450c3159
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@450c3159
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@29696f70
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration clob -> org.hibernate.type.ClobType@1f24b662
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@1f24b662
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration nclob -> org.hibernate.type.NClobType@49cc78f2
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@49cc78f2
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@559d192b
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@2c19c0c2
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration serializable -> org.hibernate.type.SerializableType@437e0b6e
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration object -> org.hibernate.type.ObjectType@536c30e1
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@536c30e1
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@19ad0e8c
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@55c8424
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@54167633
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@592e599a
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@2806e55d
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@499a29dd
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@2eda6933
+2022-12-15 14:28:49 [restartedMain] DEBUG : Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@51317fb
+2022-12-15 14:28:49 [restartedMain] INFO  : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-15 14:28:49 [restartedMain] DEBUG : Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@6562130a] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@5bc03ebf]
+2022-12-15 14:28:49 [restartedMain] DEBUG : Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@6562130a] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@a838fb9]
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table Announcement (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), broadcastBy varchar(255), broadcastTime datetime(6), broadcasted boolean default false, image1 varchar(80), image1Url varchar(1000), text varchar(2000), primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table Category (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), Name nvarchar(50) not null, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table comment (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), text longtext, post_id bigint not null, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table FIrebaseToken (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), token varchar(500), member_id bigint, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table Item (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), Description nvarchar(80), Name nvarchar(50) not null, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table ItemCategory (Item_Id bigint not null, Category_Id bigint not null, primary key (Item_Id, Category_Id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table Member (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), BirthDay int not null, BirthMonth int not null, MobilePhone nvarchar(80), PostalCode int not null, email nvarchar(200) not null, fullName nvarchar(150) not null, password varchar(255) not null, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table MemberRole (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), member_id bigint, role_id bigint, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table Note (noteId bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), message varchar(255), title varchar(255), id bigint, primary key (noteId)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table post (id bigint not null auto_increment, createdBy varchar(255), createdTime datetime(6), deleted boolean default false not null, lastUpdatedBy varchar(255), lastUpdatedTime datetime(6), content longtext, description varchar(255), title varchar(255), primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : create table Role (id bigint not null auto_increment, Description nvarchar(80), RoleName nvarchar(50) not null, primary key (id)) engine=InnoDB
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table ItemCategory drop index UK_55oy19liqvc66pwb3f8wm2g5a
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table ItemCategory add constraint UK_55oy19liqvc66pwb3f8wm2g5a unique (Category_Id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table MemberRole drop index UKofg3gtk6bvsoskedjgmb9i7au
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table MemberRole add constraint UKofg3gtk6bvsoskedjgmb9i7au unique (member_id, role_id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table post drop index UK_2jm25hjrq6iv4w8y1dhi0d9p4
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table post add constraint UK_2jm25hjrq6iv4w8y1dhi0d9p4 unique (title)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table comment add constraint FKs1slvnkuemjsq2kj4h3vhx7i1 foreign key (post_id) references post (id) on delete cascade
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table FIrebaseToken add constraint FK74tii0i03m1f7o4h16vhui8b8 foreign key (member_id) references Member (id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table ItemCategory add constraint FKar6k7njulgrun6graqai5twy1 foreign key (Category_Id) references Category (id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table ItemCategory add constraint FKpwdso636rugrx600ynul548gk foreign key (Item_Id) references Item (id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table MemberRole add constraint FKpj71wwo1cv27l8alv19dqpfp9 foreign key (member_id) references Member (id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table MemberRole add constraint FKp3iwec7acnxv7qemq7kue3ho8 foreign key (role_id) references Role (id)
+2022-12-15 14:28:50 [restartedMain] DEBUG : alter table Note add constraint FK93s3fcr6cnssvnucclj790qgr foreign key (id) references Member (id)
+2022-12-15 14:28:50 [restartedMain] INFO  : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-15 14:28:50 [restartedMain] TRACE : Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@a838fb9] for TypeConfiguration
+2022-12-15 14:28:50 [restartedMain] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-15 14:28:51 [restartedMain] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-15 14:28:52 [restartedMain] WARN  : Unable to start LiveReload server
+2022-12-15 14:28:52 [restartedMain] INFO  : Starting ProtocolHandler ["http-nio-8081"]
+2022-12-15 14:28:52 [restartedMain] INFO  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-12-15 14:28:52 [restartedMain] INFO  : Started DemoApplication in 8.04 seconds (JVM running for 9.378)
+2022-12-15 14:32:05 [http-nio-8081-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-15 14:32:05 [http-nio-8081-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2022-12-15 14:32:05 [http-nio-8081-exec-1] INFO  : Completed initialization in 8 ms
+2022-12-15 14:32:05 [http-nio-8081-exec-1] INFO  : Getting all roles
+2022-12-15 14:32:05 [http-nio-8081-exec-1] DEBUG : select role0_.id as id1_10_, role0_.Description as descript2_10_, role0_.RoleName as rolename3_10_ from Role role0_
+2022-12-15 14:32:37 [http-nio-8081-exec-4] INFO  : Getting all roles
+2022-12-15 14:32:37 [http-nio-8081-exec-4] DEBUG : select role0_.id as id1_10_, role0_.Description as descript2_10_, role0_.RoleName as rolename3_10_ from Role role0_
+2022-12-15 14:32:41 [http-nio-8081-exec-6] INFO  : Getting all roles
+2022-12-15 14:32:41 [http-nio-8081-exec-6] DEBUG : select role0_.id as id1_10_, role0_.Description as descript2_10_, role0_.RoleName as rolename3_10_ from Role role0_
+2022-12-15 14:33:00 [http-nio-8081-exec-5] INFO  : Getting all roles
+2022-12-15 14:33:00 [http-nio-8081-exec-5] DEBUG : select role0_.id as id1_10_, role0_.Description as descript2_10_, role0_.RoleName as rolename3_10_ from Role role0_
+2022-12-15 14:33:10 [http-nio-8081-exec-9] INFO  : Getting all roles
+2022-12-15 14:33:10 [http-nio-8081-exec-9] DEBUG : select role0_.id as id1_10_, role0_.Description as descript2_10_, role0_.RoleName as rolename3_10_ from Role role0_
+2022-12-15 14:33:13 [http-nio-8081-exec-7] INFO  : Getting all roles
+2022-12-15 14:33:13 [http-nio-8081-exec-7] DEBUG : select role0_.id as id1_10_, role0_.Description as descript2_10_, role0_.RoleName as rolename3_10_ from Role role0_
